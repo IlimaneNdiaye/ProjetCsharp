@@ -1,0 +1,57 @@
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.exe
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.deps.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.runtimeconfig.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.dll
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.pdb
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.AssemblyInfo.cs
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.GestionBibliotheque.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GestionBibliotheque.Api.props
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GestionBibliotheque.Api.props
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GestionBibliotheque.Api.props
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\scopedcss\bundle\GestionBibliotheque.Api.styles.css
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.dll
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\refint\GestionBibliotheque.Api.dll
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.pdb
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.genruntimeconfig.cache
+C:\Users\HP\Documents\csharp\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\ref\GestionBibliotheque.Api.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.exe
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.deps.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.runtimeconfig.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\GestionBibliotheque.Api.pdb
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.AssemblyInfoInputs.cache
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.AssemblyInfo.cs
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.csproj.CoreCompileInputs.cache
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.GestionBibliotheque.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.GestionBibliotheque.Api.props
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.GestionBibliotheque.Api.props
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.GestionBibliotheque.Api.props
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\scopedcss\bundle\GestionBibliotheque.Api.styles.css
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\refint\GestionBibliotheque.Api.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.pdb
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.genruntimeconfig.cache
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\ref\GestionBibliotheque.Api.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.csproj.AssemblyReference.cache
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionBibliotheque.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SDV\OneDrive\Documents\Programmation orienté object\CSharp\GestionBibliotheque\GestionBibliotheque1\GestionBibliotheque.Api\obj\Debug\net8.0\GestionB.966FF3D0.Up2Date

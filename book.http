@@ -1,0 +1,30 @@
+//Requete pour afficher la liste de tous les livres
+GET http://localhost:5196/books
+###
+//Requete pour recuperer un livre à partir de son ID
+GET http://localhost:5196/books/12
+###
+//Requete pour ajouter un nouveau livre
+POST http://localhost:5196/books
+Content-Type: application/json
+
+{
+    "Title": "Notre Dame de Paris",
+    "Author": " Victor Hugo",
+    "DatePublic": "1831-03-15"
+
+}
+###
+//Requete pour modifier un livre a partir de son id
+PUT  http://localhost:5196/books/1
+Content-Type: application/json
+
+{
+    "Title":"Mbeuk mi",
+    "Author":"Baye Ndiaye"
+}
+###
+//Requete pour supprimée un livre a partir de son id
+DELETE http://localhost:5196/books/1
+ 
+  
